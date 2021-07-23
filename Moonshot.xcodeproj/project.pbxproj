@@ -17,6 +17,7 @@
 		BD05D1CC26AB4CD900FEA4E0 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD05D1CB26AB4CD900FEA4E0 /* Bundle-Decodable.swift */; };
 		BD05D1CE26AB505E00FEA4E0 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD05D1CD26AB505E00FEA4E0 /* Mission.swift */; };
 		BD05D1D026AB5AC600FEA4E0 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD05D1CF26AB5AC600FEA4E0 /* MissionView.swift */; };
+		BD05D1D226AB63EB00FEA4E0 /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD05D1D126AB63EB00FEA4E0 /* AstronautView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		BD05D1CB26AB4CD900FEA4E0 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		BD05D1CD26AB505E00FEA4E0 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
 		BD05D1CF26AB5AC600FEA4E0 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
+		BD05D1D126AB63EB00FEA4E0 /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				BD05D1B826AB48EB00FEA4E0 /* ContentView.swift */,
 				BD05D1CF26AB5AC600FEA4E0 /* MissionView.swift */,
 				BD05D1C926AB49BC00FEA4E0 /* Astronaut.swift */,
+				BD05D1D126AB63EB00FEA4E0 /* AstronautView.swift */,
 				BD05D1CD26AB505E00FEA4E0 /* Mission.swift */,
 				BD05D1CB26AB4CD900FEA4E0 /* Bundle-Decodable.swift */,
 				BD05D1BA26AB48EB00FEA4E0 /* Assets.xcassets */,
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD05D1D226AB63EB00FEA4E0 /* AstronautView.swift in Sources */,
 				BD05D1CA26AB49BC00FEA4E0 /* Astronaut.swift in Sources */,
 				BD05D1B926AB48EB00FEA4E0 /* ContentView.swift in Sources */,
 				BD05D1B726AB48EB00FEA4E0 /* MoonshotApp.swift in Sources */,
